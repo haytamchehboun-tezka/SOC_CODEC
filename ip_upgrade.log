@@ -1,0 +1,328 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.2 (win64) Build 6299465 Fri Nov 14 19:35:11 GMT 2025
+| Date         : Sat Nov 14 20:17:48 2026
+| Host         : DESKTOP-825BANH running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'audio_AXI_I2S_0_6'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of audio_AXI_I2S_0_6 (xilinx.com:user:AXI_I2S:1.0) from (Rev. 6) to (Rev. 7)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'audio_AXI_I2S_0_6'. These changes may impact your design.
+
+
+-Upgraded port order differs after port 'bclk_out'
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.2 (win64) Build 6299465 Fri Nov 14 19:35:11 GMT 2025
+| Date         : Sat Nov 14 14:43:52 2026
+| Host         : DESKTOP-825BANH running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'audio_AXI_I2S_0_5'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of audio_AXI_I2S_0_5 from xilinx.com:user:AXI_I2S:1.0 (Rev. 6) to xilinx.com:user:AXI_I2S:2.0 (Rev. 2)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'audio_AXI_I2S_0_5'. These changes may impact your design.
+
+
+-Upgrade has removed port 'bclk_out'
+
+-Upgrade has removed port 'lrclk_out'
+
+-Upgrade has removed port 'mclk'
+
+-Upgrade has removed port 'sdata_rx'
+
+-Upgrade has removed port 'sdata_tx'
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.2 (win64) Build 6299465 Fri Nov 14 19:35:11 GMT 2025
+| Date         : Sat Nov 14 14:34:15 2026
+| Host         : DESKTOP-825BANH running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'audio_AXI_I2S_0_4'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of audio_AXI_I2S_0_4 from xilinx.com:user:AXI_I2S:1.0 (Rev. 6) to xilinx.com:user:AXI_I2S:2.0 (Rev. 2)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'audio_AXI_I2S_0_4'. These changes may impact your design.
+
+
+-Upgrade has removed port 'bclk_out'
+
+-Upgrade has removed port 'lrclk_out'
+
+-Upgrade has removed port 'mclk'
+
+-Upgrade has removed port 'sdata_rx'
+
+-Upgrade has removed port 'sdata_tx'
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.2 (win64) Build 6299465 Fri Nov 14 19:35:11 GMT 2025
+| Date         : Sat Nov 14 14:33:27 2026
+| Host         : DESKTOP-825BANH running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'audio_AXI_I2S_1_2'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of audio_AXI_I2S_1_2 from xilinx.com:user:AXI_I2S:1.0 (Rev. 5) to xilinx.com:user:AXI_I2S:2.0 (Rev. 2)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'audio_AXI_I2S_1_2'. These changes may impact your design.
+
+
+-Upgrade has removed port 'bclk_out'
+
+-Upgrade has removed port 'lrclk_out'
+
+-Upgrade has removed port 'mclk'
+
+-Upgrade has removed port 'sdata_rx'
+
+-Upgrade has removed port 'sdata_tx'
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.2 (win64) Build 6299465 Fri Nov 14 19:35:11 GMT 2025
+| Date         : Sat Nov 14 14:26:49 2026
+| Host         : DESKTOP-825BANH running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'audio_AXI_I2S_0_3'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of audio_AXI_I2S_0_3 from xilinx.com:user:AXI_I2S:1.0 (Rev. 5) to xilinx.com:user:AXI_I2S:2.0 (Rev. 2)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'audio_AXI_I2S_0_3'. These changes may impact your design.
+
+
+-Upgrade has removed port 'bclk_out'
+
+-Upgrade has removed port 'lrclk_out'
+
+-Upgrade has removed port 'mclk'
+
+-Upgrade has removed port 'sdata_rx'
+
+-Upgrade has removed port 'sdata_tx'
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.2 (win64) Build 6299465 Fri Nov 14 19:35:11 GMT 2025
+| Date         : Sat Nov 14 14:25:37 2026
+| Host         : DESKTOP-825BANH running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'audio_AXI_I2S_1_1'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of audio_AXI_I2S_1_1 from xilinx.com:user:AXI_I2S:1.0 (Rev. 4) to xilinx.com:user:AXI_I2S:2.0 (Rev. 2)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'audio_AXI_I2S_1_1'. These changes may impact your design.
+
+
+-Upgrade has removed port 'bclk_out'
+
+-Upgrade has removed port 'lrclk_out'
+
+-Upgrade has removed port 'mclk'
+
+-Upgrade has removed port 'sdata_rx'
+
+-Upgrade has removed port 'sdata_tx'
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.2 (win64) Build 6299465 Fri Nov 14 19:35:11 GMT 2025
+| Date         : Sat Nov 14 14:25:37 2026
+| Host         : DESKTOP-825BANH running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'audio_AXI_I2S_0_2'
+
+1. Summary
+----------
+
+SUCCESS in the update of audio_AXI_I2S_0_2 (xilinx.com:user:AXI_I2S:2.0 (Rev. 2)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.2 (win64) Build 6299465 Fri Nov 14 19:35:11 GMT 2025
+| Date         : Sat Nov 14 14:02:10 2026
+| Host         : DESKTOP-825BANH running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'audio_AXI_I2S_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of audio_AXI_I2S_0_0 from xilinx.com:user:AXI_I2S:1.0 (Rev. 4) to xilinx.com:user:AXI_I2S:2.0 (Rev. 2)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'audio_AXI_I2S_0_0'. These changes may impact your design.
+
+
+-Upgrade has removed port 'bclk_out'
+
+-Upgrade has removed port 'lrclk_out'
+
+-Upgrade has removed port 'mclk'
+
+-Upgrade has removed port 'sdata_rx'
+
+-Upgrade has removed port 'sdata_tx'
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.2 (win64) Build 6299465 Fri Nov 14 19:35:11 GMT 2025
+| Date         : Thu Nov 12 11:50:18 2026
+| Host         : DESKTOP-825BANH running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'audio_AXI_I2S_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of audio_AXI_I2S_0_0 (xilinx.com:user:AXI_I2S:1.0) from (Rev. 1) to (Rev. 4)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'audio_AXI_I2S_0_0'. These changes may impact your design.
+
+
+-Upgrade has added port 'bclk_out'
+
+-Upgrade has added port 'lrclk_out'
+
+-Upgrade has added port 'mclk'
+
+-Upgrade has added port 'sdata_rx'
+
+-Upgrade has added port 'sdata_tx'
+
+

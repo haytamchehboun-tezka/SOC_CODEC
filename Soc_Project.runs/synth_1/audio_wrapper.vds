@@ -1,0 +1,42 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Mon Nov 16 13:44:59 2026
+# Process ID         : 6152
+# Current directory  : D:/Soc_Project/Soc_Project.runs/synth_1
+# Command line       : vivado.exe -log audio_wrapper.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source audio_wrapper.tcl
+# Log file           : D:/Soc_Project/Soc_Project.runs/synth_1/audio_wrapper.vds
+# Journal file       : D:/Soc_Project/Soc_Project.runs/synth_1\vivado.jou
+# Running On         : DESKTOP-825BANH
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 22631
+# Processor Detail   : Intel(R) Core(TM) i7-8665U CPU @ 1.90GHz
+# CPU Frequency      : 2112 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 16985 MB
+# Swap memory        : 12713 MB
+# Total Virtual      : 29699 MB
+# Available Virtual  : 701 MB
+#-----------------------------------------------------------
+source audio_wrapper.tcl -notrace
+create_project: Time (s): cpu = 00:00:07 ; elapsed = 00:00:07 . Memory (MB): peak = 554.512 ; gain = 222.715
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'd:/Soc_Project/AXI_I2S_1_0'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/2025.2/Vivado/data/ip'.
+add_files: Time (s): cpu = 00:00:05 ; elapsed = 00:00:07 . Memory (MB): peak = 586.207 ; gain = 27.719
+Command: read_checkpoint -auto_incremental -incremental D:/Soc_Project/Soc_Project.srcs/utils_1/imports/synth_1/audio_wrapper.dcp
+INFO: [Vivado 12-5825] Read reference checkpoint from D:/Soc_Project/Soc_Project.srcs/utils_1/imports/synth_1/audio_wrapper.dcp for incremental synthesis
+INFO: [Vivado 12-7989] Please ensure there are no constraint changes
+Command: synth_design -top audio_wrapper -part xc7z010clg400-1
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7z010'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7z010'
+INFO: [Device 21-403] Loading part xc7z010clg400-1
+INFO: [Common 17-83] Releasing license: Synthesis
+8 Infos, 0 Warnings, 0 Critical Warnings and 1 Errors encountered.
+synth_design failed
+ERROR: [Device 21-988] Unexpected end of input reading rtd file
+INFO: [Common 17-206] Exiting Vivado at Mon Nov 16 13:45:21 2026...

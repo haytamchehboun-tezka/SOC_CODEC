@@ -1,0 +1,24 @@
+#--------------------------------------------------------------------------
+# AMD Vivado v2025.2 (64-bit)
+# SW Build: 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build: 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build: 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Current time: Mon Nov 16 13:31:58 CET 2026
+# Process ID (PID): 20092
+# User: windos 10
+# OS: Windows 11
+# Project: Soc_Project
+# Part: xc7z010clg400-1
+#
+# This file is an indication that an internal application error occurred.
+# This information is useful for debugging. Please open a case with AMD.
+# Technical Support with this file and a testcase attached.
+#--------------------------------------------------------------------------
+Mon Nov 16 13:31:58 CET 2026
+ui.frmwork.COutOfMemoryException: Out of memory
+	at ui.project.projecti.HAPRRunMgr_updateAllRuns(Native Method)
+	at ui.data.experiment.b.c.dVx(SourceFile:210)
+	at ui.data.experiment.b.e.construct(SourceFile:384)
+	at ui.frmwork.D.run(SourceFile:213)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
