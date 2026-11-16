@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<GenRun Id="synth_1" LaunchPart="xc7z010clg400-1" LaunchTime="1794833095" LaunchIncrCheckpoint="$PSRCDIR/utils_1/imports/synth_1/audio_wrapper.dcp">
+<GenRun Id="synth_1" LaunchPart="xc7z010clg400-1" LaunchTime="1794834798" LaunchIncrCheckpoint="$PSRCDIR/utils_1/imports/synth_1/audio_wrapper.dcp">
   <File Type="PA-TCL" Name="audio_wrapper.tcl"/>
   <File Type="REPORTS-TCL" Name="audio_wrapper_reports.tcl"/>
   <File Type="RDS-RDS" Name="audio_wrapper.vds"/>
@@ -57,9 +57,7 @@
     </Config>
   </FileSet>
   <Strategy Version="1" Minor="2">
-    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2025">
-      <Desc>Vivado Synthesis Defaults</Desc>
-    </StratHandle>
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2025"/>
     <Step Id="synth_design"/>
   </Strategy>
   <BlockFileSet Type="BlockSrcs" Name="audio_axi_gpio_0_0"/>
